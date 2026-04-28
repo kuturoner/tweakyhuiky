@@ -79,7 +79,7 @@ powercfg -import "C:\путь до файла с планом питания\pp.
 * `composed: Independent flip`
 * `composed flip (любимый режим Влада Масленникова)`
 
-![Разница](https://github.com/kuturoner/tweakyhuiky/raw/main/11.png)
+<img width="1241" height="699" alt="11" src="https://github.com/user-attachments/assets/47d74fa6-73f7-4ccc-aea1-86b9bf7679d8" />
 
 Разница между `hardware: legacy flip` и `hardware: Independent flip` минимальна.
 
