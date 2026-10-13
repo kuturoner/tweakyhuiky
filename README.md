@@ -209,13 +209,12 @@ Win + I
 
 После крупных обновлений рекомендуется очищать кэш.
 
-### Способ
+### Батник очистки
 
-Через DDU:
-https://www.guru3d.com/download/display-driver-uninstaller-download/
+[Cache Cleaner](https://github.com/kuturoner/tweakyhuiky/raw/main/chistka.bat)
 
-* `выбрать видеокарту`
-* `нажать очистку shader cache`
+* `Запустить батник, дождаться конца`
+* `Обязательно проверить целостность файлов cs2 после`
 
 ---
 
